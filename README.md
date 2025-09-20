@@ -47,7 +47,7 @@ End\_to\_End\_Networking\_project/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/End_to_End_Networking_project.git
+git clone https://github.com/qosain-bukhari/End_to_end_Network_security_project.git
 cd End_to_End_Networking_project
 ````
 
